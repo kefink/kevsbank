@@ -60,7 +60,7 @@ class KevsBankHomePage extends StatelessWidget {
                     style: TextStyle(color: Colors.white));
               },
             ),
-          ],
+          ],cle
         ),
       ),
     );
